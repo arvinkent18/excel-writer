@@ -1,0 +1,36 @@
+[
+    {
+        "SLNOINPART": "Test 1",
+        "C_HOUSE_NO": "Test 1",
+        "C_HOUSE_NO_V1": "Test 1",
+        "FM_NAME_EN": "Test 1",
+        "LASTNAME_EN": "Test 1",
+        "FM_NAME_V1": "Test 1",
+        "LASTNAME_V1": "Test 1",
+        "RLN_TYPE": "Test 1",
+        "RLN_FM_NM_EN": "Test 1",
+        "RLN_L_NM_EN": "Test 1",
+        "RLN_FM_NM_V1": "Test 1",
+        "RLN_L_NM_V1": "Test 1",
+        "EPIC_NO": "Test 1",
+        "GENDER": "Test 1",
+        "AGE": "Test 1"
+    },
+    {
+        "SLNOINPART": "Test 2",
+        "C_HOUSE_NO": "Test 2",
+        "C_HOUSE_NO_V1": "Test 2",
+        "FM_NAME_EN": "Test 2",
+        "LASTNAME_EN": "Test 2",
+        "FM_NAME_V1": "Test 2",
+        "LASTNAME_V1": "Test 2",
+        "RLN_TYPE": "Test 2",
+        "RLN_FM_NM_EN": "Test 2",
+        "RLN_L_NM_EN": "Test 2",
+        "RLN_FM_NM_V1": "Test 2",
+        "RLN_L_NM_V1": "Test 2",
+        "EPIC_NO": "Test 2",
+        "GENDER": "Test 2",
+        "AGE": "Test 2"
+    }
+]
